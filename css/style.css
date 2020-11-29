@@ -1,0 +1,39 @@
+p,h4
+{
+    color:red;
+    font-weight:bold;
+    font-size:100px;
+}
+h1
+{
+    color:red;
+}
+body{
+    background-color:black;
+}
+
+div p{
+    color:blue;
+
+}
+#first-para{
+    color:yellow;
+}
+.first-para{
+    color:yellow;
+}
+div{
+    border:1px solid red;
+    background:blue;
+    color:white;
+    width:50%;
+    float:right;
+    border-radius:25px;
+    margin:40px;
+    padding:20px;
+}
+div ul{
+    list-style-type:none;
+    list-style-type:square;
+    list-style-type:none;
+}
